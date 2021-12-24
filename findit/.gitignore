@@ -131,4 +131,4 @@ dmypy.json
 
 */node_modules/
 
-images/
+# images/
