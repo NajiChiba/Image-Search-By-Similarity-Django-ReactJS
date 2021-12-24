@@ -129,12 +129,6 @@ dmypy.json
 .pyre/
 
 
-# images 
+*/node_modules/
 
-compareTest/
-
-migrations/
-
-front/node_modules/
-
-findit/images/
+images/
