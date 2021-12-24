@@ -135,6 +135,6 @@ compareTest/
 
 migrations/
 
-front/node_modules/
+node_modules/
 
-findit/images/
+images/
