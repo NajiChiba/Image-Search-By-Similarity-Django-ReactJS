@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# images 
+
+compareTest/
+
+migrations/
+
+front/node_modules/
