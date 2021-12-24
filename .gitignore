@@ -138,5 +138,3 @@ migrations/
 front/node_modules/
 
 # findit/images/
-
-*.json
